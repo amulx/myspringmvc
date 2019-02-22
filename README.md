@@ -1,6 +1,6 @@
 #### 创建一个MAVEN空项目
 
-![spring1](/home/amu/IdeaProjects/myspringmvc/img/spring1.png)
+![spring1](./img/spring1.png)
 
 
 
@@ -194,6 +194,6 @@ main
 
   `mvn package`
 
-  ![spring2](/home/amu/IdeaProjects/myspringmvc/img/spring2.png)
+  ![spring2](./img/spring2.png)
 
 此时可以看到在`target`目录下生成了`myspringmvc.war`文件，将该文件放到`tomcat`目录下就行，重启服务，在浏览器访问
